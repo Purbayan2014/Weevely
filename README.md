@@ -20,6 +20,8 @@ Upload weevely PHP agent to a target web server to get remote shell access to it
 
 - [Python 2.7.17](https://www.python.org/downloads/release/python-2717/)
 
+the [Python 2.7.17](https://www.python.org/downloads/release/python-2717/) have already `pip`
+
 ## Requirements/Module
 
 - PyYAML
@@ -47,7 +49,7 @@ operable program or batch file.
 ```
 
 This the alternative command by installing python module
-C:\Python\Scripts\pip.exe install <module>
+`C:\Python\Scripts\pip.exe install <module>`
 
 by Installing `requirements` run the following command:
 
@@ -56,7 +58,6 @@ by Installing `requirements` run the following command:
  if this is your first time by install the `python` you need install `request` module using 
  `C:\Python\Scripts\pip.exe install request` or `pip install request`
  the request module is not included on `requirements.txt`
-
 
 ## Usage
 
