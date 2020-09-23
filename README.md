@@ -41,7 +41,7 @@ Run the following command on your terminal
 
 <b>Note</b>: if you face this error on step 3:
 
-```'pip' is not recognized as an internal or external command,
+```‘pip’ is not recognized as an internal or external command,
 operable program or batch file.
 ```
 
